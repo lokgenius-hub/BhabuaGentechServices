@@ -1,0 +1,14 @@
+<!-- Placeholder for favicon.png -->
+<!-- To add your favicon: -->
+<!-- 1. Create or design a logo/icon (32x32 or 64x64 pixels recommended) -->
+<!-- 2. Save it as "favicon.png" in the root directory -->
+<!-- 3. The HTML file already references it in the <head> section -->
+
+<!-- For now, you can use a free favicon generator: -->
+<!-- - https://favicon.io/ -->
+<!-- - https://realfavicongenerator.net/ -->
+
+<!-- Or create a simple SVG favicon inline by updating index.html: -->
+<!-- 
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>💻</text></svg>">
+-->
